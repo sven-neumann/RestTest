@@ -5,8 +5,10 @@ Minimalistic restful api with Symfony.
 
 
 ```
-clone git: git clone https://github.com/sven-neumann/RestTest.git RestTest
+#clone git: 
+git clone https://github.com/sven-neumann/RestTest.git RestTest
 cd RestTest
+#install dependencies
 composer install
 
 # Edit database server settings (mysql)
